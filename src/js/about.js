@@ -1,1 +1,1 @@
-console.log('about js')
+import '../css/main.css'
