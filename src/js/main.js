@@ -1,6 +1,7 @@
 import '../css/main.css'
 
 import './filter'
+import './mode'
 import request from './request'
 import { createCountries } from './updateUI'
 const API = 'https://restcountries.com/v3.1/all'
